@@ -4,6 +4,10 @@
   "evaluation_text": "Lab Demo 2 Evaluations [Friday Lab]",
   "default_evaluation": 100,
   "evaluations": [
-    "userid"
+    "userid",
+    {
+      "id": "userid2",
+      "evaluation": 95
+    }
   ]
 }
