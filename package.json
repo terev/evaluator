@@ -1,0 +1,19 @@
+{
+  "name": "evaluator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Trevor Foster",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "cheerio": "^0.22.0",
+    "lodash": "^4.16.6",
+    "request": "^2.78.0",
+    "request-promise": "^4.1.1"
+  }
+}
